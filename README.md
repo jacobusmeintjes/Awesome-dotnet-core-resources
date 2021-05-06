@@ -1,4 +1,4 @@
-# 🎨 .Net Core Resources
+# 🎨 Awesome .Net Core Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Twitter URL](https://img.shields.io/badge/-@meysam_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/meysamhadeli)
 [![Linkedin Url URL](https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/meysamhadeli/)
 [![blog](https://img.shields.io/badge/blog-meysamhadeli.com-brightgreen?style=flat-square)](https://meysamhadeli.com/)
@@ -6,11 +6,11 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] 
 
 
-![](https://github.com/meysamhadeli/Awesome-dotnet-core-resources/banner.jpg)
-
 > These list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously. Keep Learning Keep Sharing !
 
 > **This awesome list is available here with better UI and searching feature: [https://meysamhadeli.github.io/Awesome-dotnet-core-resources](https://meysamhadeli.github.io/Awesome-dotnet-core-resources/)**
+
+Inspired by [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/meysamhadeli/Awesome-dotnet-core-resources/blob/master/contributing.md) pages first.
 
