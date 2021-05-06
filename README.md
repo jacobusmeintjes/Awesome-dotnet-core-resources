@@ -6,7 +6,7 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] 
 
 
-![](https://github.com/mehdihadeli/awesome-dotnet-core-education/banner.jpg)
+![](https://github.com/meysamhadeli/Awesome-dotnet-core-resources/banner.jpg)
 
 > These list of awesome articles and resources for learning and practicing about .Net Core and its related technologies, this repository will update continuously. Keep Learning Keep Sharing !
 
