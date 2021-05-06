@@ -1,4 +1,4 @@
-# 🎨 Awesome .Net Core Resources [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# 🎨 .Net Core Resources [![Awesome](https://awesome.re/badge-flat2.svg)]
 [![Twitter URL](https://img.shields.io/badge/-@meysam_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/meysamhadeli)
 [![Linkedin Url URL](https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/meysamhadeli/)
 [![blog](https://img.shields.io/badge/blog-meysamhadeli.com-brightgreen?style=flat-square)](https://meysamhadeli.com/)
