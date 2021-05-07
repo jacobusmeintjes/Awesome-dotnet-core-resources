@@ -31,7 +31,7 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
   - [C# 7](docs/csharp/7.md)
   - [C# 8](docs/csharp/8.md)
   - [C# 9](docs/csharp/9.md)
-- [Async]
+- [Async](docs/async/async.md)
   - [Async And Await](docs/async-and-await.md)
   - [Async Best Practice](docs/async-best-practice.md)
   - [Async Collections](docs/async-collections.md)
