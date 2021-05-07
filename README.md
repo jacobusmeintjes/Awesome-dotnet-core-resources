@@ -42,7 +42,7 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
     - [Lazy Initialization](docs/async-collections/lazy-initialization.md)
   - [Asynchronous Messaging](docs/asynchronous-messaging.md)
   - [Async Local](docs/asynclocal.md)
-  - [Awaiter] (docs/awaiter.md)
+  - [Awaiter](docs/awaiter.md)
   - [Cancellation](docs/cancellation.md)
   - [Code Analyzers](docs/code-analyzers.md)
   - [Concurrency Vs Parallelism](docs/concurrency-vs-parallelism)
