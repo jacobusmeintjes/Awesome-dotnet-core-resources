@@ -51,7 +51,6 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
   - [Cpu Bound](docs/async/cpu-bound.md)
   - [Exception Handling](docs/async/exception-handling)
   - [Io Bound](docs/async/io-bound.md)
-  - [Recources](docs/async/resources.md)
   - [Synchronization Context](docs/async/synchronization-context.md)
   - [TaskCompletionSource](docs/async/task-completion-source.md)
   - [Task](docs/async/task.md)
@@ -59,6 +58,10 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
   - [Thread Safty](docs/async/thread-safty.md)
   - [Thread](docs/async/thread.md)
   - [ValueTask](docs/async/valuetask.md)
+  - [Recources](docs/async/resources.md)
+- [Collections](docs/collections/collections.md)  
+  - [Collection And Performance](docs/collections/collections.md)
+  - [Array Vs List](docs/collections/array-vs-list.md)
 - [Blazor](docs/blazor.md)
 - [Source Generators](docs/source-generators.md)
 - [Performance](docs/performance.md)
@@ -126,6 +129,7 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
   - [GitHub Actions](docs/ci-cd/gitHub-actions.md)
 - [Roslyn](docs/roslyn.md)
 - [Commenting](docs/commenting.md)
+- [Refactor](docs/refactor.md)
 - [Reflection](docs/reflection.md)
 
 

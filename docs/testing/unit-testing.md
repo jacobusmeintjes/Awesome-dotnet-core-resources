@@ -22,6 +22,7 @@
 - [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) - Raw Coding
 - [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
 - [EFS003: Initialize ASP.NET Core Unit Tests](https://www.youtube.com/watch?v=jWIPkpl6Yr0)
+- [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o&t=184s&ab_channel=NickChapsas)
 ## Samples
 - [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
 
