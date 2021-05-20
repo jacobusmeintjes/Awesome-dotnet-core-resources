@@ -20,6 +20,7 @@
 
 - [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 - [On .NET Live - Creating GraphQL APIs with a little Hot Chocolate](https://www.youtube.com/watch?v=LfPc0sitoR4)
+- [Entity Framework Community Standup - Building Modern Apps with GraphQL](https://www.youtube.com/watch?v=4k3WzW2ZdXs&ab_channel=dotNETdotNET )
 
 ## Library
 - [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client)
