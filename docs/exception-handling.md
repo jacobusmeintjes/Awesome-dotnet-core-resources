@@ -17,6 +17,7 @@
 - [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
 - [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
 - [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/) - Vladimir Khorikove
+- [Global Exception Handling in ASP.NET Core – Ultimate Guide](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
 
 ## 📹 Videos
 

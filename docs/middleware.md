@@ -14,6 +14,8 @@
 - [Styles of Writing ASP.NET Core Middleware](http://stevetalkscode.co.uk/middleware-styles)
 - [Middleware vs Filters ASP. NET Core](https://www.edgesidesolutions.com/middleware-vs-filters-asp-net-core/)
 - [Exploring Middleware as MVC Filters in ASP.NET Core 1.1](https://andrewlock.net/exploring-middleware-as-mvc-filters-in-asp-net-core-1-1/)
+- [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
+- [Re-reading ASP.Net Core request bodies with EnableBuffering](https://devblogs.microsoft.com/aspnet/re-reading-asp-net-core-request-bodies-with-enablebuffering/)
 
 ## Videos
 

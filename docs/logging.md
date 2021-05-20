@@ -14,6 +14,7 @@
 - [Events and levels structured logging concepts in .NET (2)](https://nblumhardt.com/2016/06/events-and-levels-structured-logging-concepts-in-net-2/)
 - [Message templates and properties structured logging concepts in .NET (3)](https://nblumhardt.com/2016/06/message-templates-and-properties-structured-logging-concepts-in-net-3/)
 - [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
+- [Using Middleware in .NET 5.0 to Log Requests and Responses](https://exceptionnotfound.net/using-middleware-to-log-requests-and-responses-in-asp-net-core/)
 
 ## 📹 Videos
 

@@ -22,3 +22,8 @@
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
 - [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
+- [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
+
+
+## 📹 Videos
+- [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)

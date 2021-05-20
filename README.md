@@ -15,6 +15,18 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core-resources/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 
+## Support ⭐
+If you like my work, feel free to:
+
+- ⭐ this repository. And we will be happy together :)
+- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome .Net Core Education
+
+
+Thanks a bunch for supporting me!
+
+[tweet]: https://twitter.com/intent/tweet?url=https://github.com/meysamhadeli/Awesome-dotnet-core-resources&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20for%20learning%20and%20practicing%20about%20.Net%20Core%20and%20its%20related%20technologies&hashtags=dotnetcore,dotnet,csharp,netcore,aspnetcore
+
+
 ## Contents
 
 - [.Net](docs/dotnet/dotnet.md)
@@ -129,17 +141,5 @@ Thanks to all [contributors](https://github.com/meysamhadeli/Awesome-dotnet-core
 - [Commenting](docs/commenting.md)
 - [Refactor](docs/refactor.md)
 - [Reflection](docs/reflection.md)
-
-
-## Support ⭐
-If you like my work, feel free to:
-
-- ⭐ this repository. And we will be happy together :)
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome .Net Core Education
-
-
-Thanks a bunch for supporting me!
-
-[tweet]: https://twitter.com/intent/tweet?url=https://github.com/meysamhadeli/Awesome-dotnet-core-resources&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20for%20learning%20and%20practicing%20about%20.Net%20Core%20and%20its%20related%20technologies&hashtags=dotnetcore,dotnet,csharp,netcore,aspnetcore
 
 
