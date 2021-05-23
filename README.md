@@ -38,7 +38,7 @@ Thanks a bunch for supporting me!
   - [.Net Template](docs/dotnet-cli/dotnet-template.md)
 - [.Net Core Best Practice](docs/dotnet-core-best-practice.md)
 - [C#](docs/csharp/index.md)
-- [.Net Async](docs/async/index.md)
+- [Async](docs/async/index.md)
 - [Collections](docs/collections/collections.md)  
   - [Collection And Performance](docs/collections/collections.md)
   - [Array Vs List](docs/collections/array-vs-list.md)
