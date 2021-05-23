@@ -18,7 +18,7 @@
 - [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
 - [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/) - Vladimir Khorikove
 - [Global Exception Handling in ASP.NET Core – Ultimate Guide](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
-
+- [Using Middleware to trap Exceptions in Asp.Net Core](https://docs.microsoft.com/en-us/archive/blogs/brandonh/using-middleware-to-trap-exceptions-in-asp-net-core)
 ## 📹 Videos
 
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
