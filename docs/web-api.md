@@ -59,6 +59,7 @@
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
+- [Hiding ASP.NET API Endpoints](https://www.youtube.com/watch?v=qRiXEjbabH4&list=WL&index=2&ab_channel=HassanHabibHassanHabib)
 
 ## 📦 Libraries
 
